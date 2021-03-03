@@ -1,0 +1,10 @@
+C:\Users\jscho\Documents\GitHub\6420_devwork\Homework\Week1\bin\Debug\Week1.exe.config
+C:\Users\jscho\Documents\GitHub\6420_devwork\Homework\Week1\bin\Debug\Week1.exe
+C:\Users\jscho\Documents\GitHub\6420_devwork\Homework\Week1\bin\Debug\Week1.pdb
+C:\Users\jscho\Documents\GitHub\6420_devwork\Homework\Week1\obj\Debug\Week1.csprojAssemblyReference.cache
+C:\Users\jscho\Documents\GitHub\6420_devwork\Homework\Week1\obj\Debug\Week1.Form1.resources
+C:\Users\jscho\Documents\GitHub\6420_devwork\Homework\Week1\obj\Debug\Week1.Properties.Resources.resources
+C:\Users\jscho\Documents\GitHub\6420_devwork\Homework\Week1\obj\Debug\Week1.csproj.GenerateResource.cache
+C:\Users\jscho\Documents\GitHub\6420_devwork\Homework\Week1\obj\Debug\Week1.csproj.CoreCompileInputs.cache
+C:\Users\jscho\Documents\GitHub\6420_devwork\Homework\Week1\obj\Debug\Week1.exe
+C:\Users\jscho\Documents\GitHub\6420_devwork\Homework\Week1\obj\Debug\Week1.pdb
